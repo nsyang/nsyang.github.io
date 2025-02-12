@@ -1,13 +1,7 @@
-- National Scholarship of Graduate Student, 2024.
+- Zhu Liyuehua Outstanding Doctoral Scholarship of Chinese Academy of Sciences, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- Selected as an Outstanding Graduate Student of Henan University, 2019.
 
-- First-prize Scholarship of CUMT, 2023.
+- Henan University Scholarship, 2019.
 
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- National Encouragement Scholarship, 2018, 2017 and 2016

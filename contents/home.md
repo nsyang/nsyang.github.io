@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![nsyang](https://img.shields.io/badge/nsyang-github-blue?logo=github)](https://github.com/nsyang)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a PhD in Geotechnical engineering at Institute of Mountain Hazards and Environment, University of Chinese Academy of Science, China.
 
 #### Email
-sli[at]cumt.edu.cn
+YHQ2019@imde.ac.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2019.09 - Present University of Chinese Academy of Science, PhD of Geotechnical engineering\
+2015.09 - 2019.06   Henan University, Bachelor of Civil engineering
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Surface processes and landforms, Martian river landforms.
 
